@@ -1,7 +1,7 @@
 # Brewery Lister
 
 A React application that displays a list of microbreweries using the OpenBreweryDB public API.
-
+![alt text](image.png)
 ## Features
 
 - **Microbrewery Listing**: Shows information of "micro" type breweries from the public [OpenBreweryDB](https://api.openbrewerydb.org/breweries) API.
